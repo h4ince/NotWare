@@ -1,7 +1,9 @@
 # NotWare
 
-Making this just for fun
-/Private addon now public cuz i discontinued it 
+Making this just for fun.
 
-thanks to: 
-/Orion https://github.com/AntiCope/orion/
+Private addon now public cuz i discontinued it .
+
+big thanks to: 
+
+[Orion](https://github.com/AntiCope/orion/)
