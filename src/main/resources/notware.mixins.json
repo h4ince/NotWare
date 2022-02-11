@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "me.notme.notware.mixins",
+  "compatibilityLevel": "JAVA_16",
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "mixins": [
+    "NametagMixin"
+  ]
+}
