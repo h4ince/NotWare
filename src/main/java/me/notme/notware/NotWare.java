@@ -75,7 +75,6 @@ public class NotWare extends MeteorAddon {
         Modules.get().add(new AutoBypass());
         Modules.get().add(new EntityFly());
         Modules.get().add(new AutoCrymstal());
-        Modules.get().add(new ElytraBaritone());
         Modules.get().add(new InstaMineBypass());
         Modules.get().add(new AutoBedCraft());
         Modules.get().add(new AutoCityPlus());
